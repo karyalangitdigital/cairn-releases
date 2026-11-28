@@ -1,5 +1,13 @@
 [
 	{
+		"version": "1.5.4",
+		"commit": "22fe5cd8b1f142ba59d285fb3b824d48f48ae184",
+		"url": "https://github.com/karyalangitdigital/cairn-releases/releases/download/v1.5.4/CairnSetup-x64.exe",
+		"sha256hash": "c47b93e03edf3ab4bc05328e169c6a3f1f89ff511835c807c22eda787a4d5d41",
+		"size": 112772840,
+		"releasedAt": "2026-11-28T04:04:55.873Z"
+	},
+	{
 		"version": "1.5.3",
 		"commit": "43ddf865d9b51f24510659c754bc6111615a630e",
 		"url": "https://github.com/karyalangitdigital/cairn-releases/releases/download/v1.5.3/CairnSetup-x64.exe",
